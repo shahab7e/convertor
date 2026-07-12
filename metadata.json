@@ -1,0 +1,6 @@
+{
+  "name": "Hryvnia USD Converter",
+  "description": "A simple tool to convert Ukrainian Hryvnia (UAH) to US Dollars (USD) with a custom multiplier.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
